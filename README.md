@@ -1,3 +1,5 @@
+# This public open source plugin is no longer maintained and has been archived
+
 # oxygenxml.cgm.support.eclipse
 
 Oxygen XML Editor does not render by default CGM images. This plugin contributes additional libraries which allows Oxygen XML Editor Eclipse Plugin distribution to render CGM images in Author mode.
